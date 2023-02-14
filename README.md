@@ -1,2 +1,3 @@
 # Good-Heart-Charity-
-A charity website 
+A replication of "Kind Heart Charity" website.
+
